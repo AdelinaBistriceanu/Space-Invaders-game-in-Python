@@ -1,0 +1,2 @@
+# Space-Invaders-game-in-Python
+For this Space Invaders inspired little game in PyCharm we have to add all these files in our game file for it to compile. Any photos can be changed, we just have to be careful to the format of the images and the dimensions for it to be fit in the window properly. This game has more explanations since the code is bigger and if we would like to change an image or an action we can follow the algorithm easier.
