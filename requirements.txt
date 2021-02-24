@@ -1,0 +1,2 @@
+PyCharm Proffesional 2019.3.3 x64 or PyCharm Community Edition 2020.1.1 x64
+pygame version 1.9.6
