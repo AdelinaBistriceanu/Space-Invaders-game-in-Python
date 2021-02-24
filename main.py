@@ -1,7 +1,7 @@
 """
-                    PROIECT D10-T2 - dezvoltare Jocuri PyGame
+                          Dezvoltare Jocuri PyGame
 
-    Bistriceanu Adelina, Bosorogan Denisa, Facultatea EtcTi, An 2, Seria A , Grupa 1.1
+    Bistriceanu Adelina, Facultatea EtcTi, An 2, Seria A , Grupa 1.1
 
                          - Joc NAVETELE SPATIALE -
 
